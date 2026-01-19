@@ -27,5 +27,7 @@
   "editor.suggest.showOperators": false,
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.acceptSuggestionOnEnter": "off",
-  "editor.tabCompletion": "off"
+  "editor.tabCompletion": "off",
+  "editor.suggest.enabled": false,
+  "editor.inlineSuggest.enabled": false
 }
