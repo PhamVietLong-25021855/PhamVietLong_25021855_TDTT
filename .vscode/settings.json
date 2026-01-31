@@ -1,33 +1,7 @@
 {
   "editor.quickSuggestions": {
-    "other": false,
-    "comments": false,
-    "strings": false
-  },
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.wordBasedSuggestions": "off",
-  "editor.parameterHints.enabled": false,
-  "editor.suggest.showWords": false,
-  "editor.suggest.showSnippets": false,
-  "editor.suggest.showClasses": false,
-  "editor.suggest.showFunctions": false,
-  "editor.suggest.showVariables": false,
-  "editor.suggest.showModules": false,
-  "editor.suggest.showProperties": false,
-  "editor.suggest.showKeywords": false,
-  "editor.suggest.showValues": false,
-  "editor.suggest.showFiles": false,
-  "editor.suggest.showReferences": false,
-  "editor.suggest.showColors": false,
-  "editor.suggest.showFolders": false,
-  "editor.suggest.showTypeParameters": false,
-  "editor.suggest.showUnits": false,
-  "editor.suggest.showIssues": false,
-  "editor.suggest.showUsers": false,
-  "editor.suggest.showOperators": false,
-  "editor.acceptSuggestionOnCommitCharacter": false,
-  "editor.acceptSuggestionOnEnter": "off",
-  "editor.tabCompletion": "off",
-  "editor.suggest.enabled": false,
-  "editor.inlineSuggest.enabled": false
+    "other": true,
+    "comments": true,
+    "strings": true
+  }
 }
