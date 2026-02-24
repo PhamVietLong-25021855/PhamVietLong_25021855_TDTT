@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "java.hello",
+            "projectName": "PhamVietLong_25021855_TDTT_a808b76d"
+        },
+        {
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
